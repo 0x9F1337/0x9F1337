@@ -9,7 +9,7 @@
 - 🤖 Windows Low-Level enthusiast<br>
 - 👨‍💻 Check out my random [repos](https://github.com/0x9F1337?tab=repositories&q=&type=source&language=&sort=)
 
-<h3 align="left">Knowledge Base</h3>
+<h3 align="left">💡 Knowledge Base</h3>
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" />
