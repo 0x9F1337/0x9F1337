@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm 0x9F</h1>
 <h3 align="center">Fullstack developer from Germany</h3>
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=0x9f1337&label=Visitors&color=0e75b6&style=flat" alt="0x9f1337" />
-</p> 
+
 - 🤥 I'm 27<br>
 - 📚 14 years of IT and coding experience<br>
 - ❤️ C & .NET lover<br>
@@ -72,8 +70,10 @@
   </a>
 </p>
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=0x9f1337&show_icons=true&locale=en&layout=compact" alt="0x9f1337" />
-</p>
-<p>&nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=0x9f1337&show_icons=true&hide_border=true&locale=en" alt="0x9f1337" />
-</p>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=0x9f1337&label=Visitors&color=0e75b6&style=flat" alt="0x9f1337" />
+</p> 
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=0x9f1337&show_icons=true&theme=dark&locale=en&layout=compact" alt="0x9f1337" /></p>
+
+<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=0x9f1337&show_icons=true&theme=onedark&hide_border=true&locale=en" alt="0x9f1337" /></p> -->
