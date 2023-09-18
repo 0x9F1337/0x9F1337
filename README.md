@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm 0x9F</h1>
-<h3 align="center">A fullstack developer from Germany</h3>
+<h3 align="center">Fullstack developer from Germany</h3>
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=0x9f1337&label=Visitors&color=0e75b6&style=flat" alt="0x9f1337" />
 </p> 
